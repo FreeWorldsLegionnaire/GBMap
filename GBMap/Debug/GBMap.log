@@ -1,0 +1,15 @@
+﻿  another sample code.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\utility(207,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\C++VSWorkSpace\GBMap\GraphReviewC++\another sample code.cpp(44): message : see reference to function template instantiation 'std::pair<int,vertex *>::pair<double,vertex*,0>(std::pair<double,vertex *> &&) noexcept' being compiled
+C:\C++VSWorkSpace\GBMap\GraphReviewC++\another sample code.cpp(44): message : see reference to function template instantiation 'std::pair<int,vertex *>::pair<double,vertex*,0>(std::pair<double,vertex *> &&) noexcept' being compiled
+  graph_sample code.cpp
+  Generating Code...
+  GBMap.vcxproj -> C:\C++VSWorkSpace\GBMap\Debug\GBMap.exe
