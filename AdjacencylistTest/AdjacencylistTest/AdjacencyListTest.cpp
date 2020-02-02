@@ -4,4 +4,4 @@
 
 //So we should focus our efforts into making, instead a 10x10, a 2x2 Adjacencylist to keep things simple.
 
-//We should deliberately try to modifiy this .cpp file to see if the changes are reflected in the entire branch.
+//We should deliberately try to modifiy this .cpp file to see if the changes are reflected in the entire branch (aka AdjacencyList + github practice).
